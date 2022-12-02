@@ -3,7 +3,7 @@
 ### Emma Wade, Michelle Hardin, John Austin Reed
 
 Data and Environment : 
-- *environment.xml* : conda environment, to create environment based on yaml https://edcarp.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html
+1. *environment.xml* : conda environment, to create environment based on yaml https://edcarp.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html
 
 Source Code : 
 1. *file-prep.py* : prepares training and testing files including one-hot encoding of categorical variables, cycling encoding of time variables, lasso regression of image features, and joining all variables. output needed to run *cnn-xgboost.py* and *XGBOOST.ipynb*
