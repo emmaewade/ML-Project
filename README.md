@@ -10,4 +10,5 @@ Source Code :
 1. *file-prep.py* : prepares training and testing files including one-hot encoding of categorical variables, cycling encoding of time variables, lasso regression of image features, and joining all variables. output needed to run *cnn-xgboost.py* and *XGBOOST.ipynb*
 2. *cnn-xgboost.py* : hybrid model and CNN model
 3. *XGBOOST.ipynb* : XGBoost model
+4. *ML_Plotting.ipynb* : figure and comparisons scripts
 
