@@ -3,7 +3,7 @@
 ### Emma Wade, Michelle Hardin, John Austin Reed
 
 Data and Environment : 
-1. *environment.xml* : conda environment, to create environment based on yaml https://edcarp.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html
+1. *environment.yml* : conda environment, to create environment based on yaml https://edcarp.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html
 2. Data available here: https://bitgrit.net/competition/11 and in project Canvas submission 
 
 Source Code : 
