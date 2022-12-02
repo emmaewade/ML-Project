@@ -1,5 +1,5 @@
 # Hybrid CNN-XGBoost Model for Video Popularity Prediction
-**CSE 4683 : Machine Learning and Soft Computing, Fall 2022** : *Emma Wade, Michelle Hardin, John Austin Reed*
+**CSE 4683 : Machine Learning and Soft Computing, Fall 2022**, *Emma Wade, Michelle Hardin, John Austin Reed*
 
 Data and Environment : 
 1. *environment.yml* : conda environment, to create environment based on yaml https://edcarp.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html
