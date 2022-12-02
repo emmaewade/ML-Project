@@ -1,5 +1,5 @@
 # Hybrid CNN-XGBoost Model for Video Popularity Prediction
-### CSE 4683 : Machine Learning and Soft Computing, Fall 2022
+# CSE 4683 : Machine Learning and Soft Computing, Fall 2022
 ### Emma Wade, Michelle Hardin, John Austin Reed
 
 Data and Environment : 
